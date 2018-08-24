@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+	<charttype>
+		<chart>piechart</chart>
+		piechart
+	</charttype>
+	
+	<charttype>
+		piechart2
+	</charttype>
+	
+	<charttype>
+		piechart3
+	</charttype>
+	
+	<bean name="helloWorldService" class="us.codecraft.tinyioc.HelloWorldService">
+        <property name="text" value="Hello World!"></property>
+    </bean>
+</body>
