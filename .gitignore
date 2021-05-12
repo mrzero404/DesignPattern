@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### git template
+### git template
+
+# IntelliJ project files
+.idea
+*.iml
+*.log
+.DS_Store
+rebel.xml
+rebel.xml.bak
+logs
+target
+out
+gen
